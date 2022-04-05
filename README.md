@@ -2,4 +2,4 @@
 
 Integrantes: 
 Carlos Figueredo - 201813445
-David Alvarez - 201...
+David Alvarez - 201911318
