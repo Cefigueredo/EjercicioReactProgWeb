@@ -1,9 +1,8 @@
 import React from "react";
-import logo from "../assets/logo.svg";
 function Navigation() {
   return (
     <nav>
-      <img src={logo} alt="Museo de arte moderno" />
+      <h1 className="title">Museo de arte moderno</h1>
       <ul>
         <li className="active">Museos</li>
         <li>Artistas</li>

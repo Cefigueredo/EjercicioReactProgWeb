@@ -1,6 +1,6 @@
 import "./App.scss";
-import Navigation from "./Navigation/Navigation";
-import MuseumsList from "./MuseumList/MuseumsList";
+import Navigation from "./components/Navigation/Navigation";
+import MuseumsList from "./components/MuseumList/MuseumsList";
 
 function App() {
   return (
