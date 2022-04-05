@@ -1,4 +1,5 @@
-# El sitio está desplegado en Netlify con CI/CD
-
-[https://super-tarsier-1f0ff1.netlify.app/](https://super-tarsier-1f0ff1.netlify.app/)
 # EjercicioReactProgWeb
+
+Integrantes: 
+Carlos Figueredo - 201813445
+David Alvarez - 201...
